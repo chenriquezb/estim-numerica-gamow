@@ -1,2 +1,2 @@
 # estim-numerica-gamow
-Extracto de proyecto numerico. Estimacion de factor de Gamow en atomo de Uranio-238
+Extracto de proyecto numérico. Estimación de factor de Gamow en átomo de Uranio-238
